@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Apurvam Arya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apurvamarya&label=Profile%20views&color=0e75b6&style=flat" alt="apurvamarya" /> </p>
 
 - 🌱 I’m currently learning **Web Development**
